@@ -1,0 +1,77 @@
+{
+  "version": "3.92.33225.0",
+  "course_id": "5knt72XFVke",
+  "title": "Beef Cuts Final Video",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Title Screen"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6nNmDskVG3O",
+      "title": "Title Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6lcMlTbJ7B5",
+      "title": "Review",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "62Bvi7KurVm",
+      "title": "Pick One",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6SFvnsUUSuI",
+      "title": "Pick One",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6EghJP1NCin",
+      "title": "Pick One",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5pXomehRiw9",
+      "title": "Pick One",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6IbHMOuktSZ",
+      "title": "Pick One",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5VTicyoLudt",
+      "title": "Pick One",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6oUelXHMT76",
+      "title": "Pick One",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6MF4rbgFZMk",
+      "title": "Pick One",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5xQDCoZroEJ",
+      "title": "Quiz Results",
+      "scene_index": "1.11"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
